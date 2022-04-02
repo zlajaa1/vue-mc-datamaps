@@ -1,7 +1,6 @@
-# WHat is this?
+# What is this?
 
 Extension for project
-Used form 
 
 # Instalation
 
